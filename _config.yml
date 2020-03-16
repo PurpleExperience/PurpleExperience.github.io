@@ -186,8 +186,8 @@ err-404-img: "/img/labtocat.png"
 ##################
 
 keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+keybase-in-social: False
+keybase-in-footer: False
 
 ################################################################################
 
@@ -196,10 +196,10 @@ keybase-in-footer: True
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
-  Blog: 'latest-post'
-  Timeline: 'timeline'
-  Contact: 'contact'
+  О программе: 'about'
+  Блог: 'latest-post'
+  #  Timeline: 'timeline'
+  Контакты: 'contact'
   Инструменты: 'tools'
 
 # Exclusion list from the generated _site
