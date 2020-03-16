@@ -179,7 +179,7 @@ social:
 # 404 page #
 ############
 
-err-404-img: "/img/term-404.gif"
+err-404-img: "/img/labtocat.png"
 
 ##################
 # GPG on Keybase #
