@@ -2,6 +2,7 @@
 
 <ul class="list-inline social-buttons">
     {% for network in site.social %}
+    <li><a href="https://vk.com/springs_tea" target="_blank"><i class="fa fa-vk"></i></a></li>
     <li><a href="{{ network.url }}" target="_blank"><i class="fa fa-{{ network.title }} fa-fw"></i></a></li>
     {% endfor %}
     {% if site.keybase-in-social %}
